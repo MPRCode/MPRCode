@@ -1,7 +1,7 @@
 <!--
 [![Contribution Stats](https://github-contribution-stats.vercel.app/api/?username=mprcode)](https://github.com/mprcode/github-contribution-stats/)
--->
 <a href="https://github.com/siddique-azhann/github-readme-stats"><img height="300px" width="400px" src="https://github-readme-stats.vercel.app/api?username=mprcode&theme=gotham&count_private=true&show_icons=true&hide_border=true"></a>
+-->
 
 
 
