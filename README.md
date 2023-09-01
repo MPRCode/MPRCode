@@ -8,7 +8,7 @@
 
 ### Languages and Tools :
 
-[![My Skills](https://skillicons.dev/icons?i=react,js,html,css,nodejs,express,tailwind,mongodb,mysql,aws,git,)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=react,js,html,css,nodejs,express,redux,tailwind,mongodb,mysql,aws,git,)](https://skillicons.dev)
 
 
 <!--
